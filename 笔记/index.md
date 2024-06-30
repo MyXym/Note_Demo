@@ -1,29 +1,35 @@
-# 📒 笔记
+# Home Pages
+---
+```components
+componentId: 09871d30-68b4-4b0d-820d-e4692a2846c9
 
-> [!info] YOLOV8
-> **==CODE==**: [主页 -Ultralytics YOLO 文档](https://docs.ultralytics.com/zh)
+```
+```contributionGraph
+title: 热力图
+graphType: default
+dateRangeValue: 365
+dateRangeType: LATEST_DAYS
+startOfWeek: 1
+showCellRuleIndicators: true
+titleStyle:
+  textAlign: left
+  fontSize: 15px
+  fontWeight: normal
+dataSource:
+  type: PAGE
+  value: ""
+  dateField: {}
+fillTheScreen: false
+enableMainContainerShadow: false
+cellStyleRules: []
+mainContainerStyle: {}
 
+```
+```components
+componentId: 866ad29b-eff9-4d25-bcb8-a289d017a8f6
 
-> [!Info] YOLOv10
-> **==PAPER:==** https://arxiv.org/pdf/2405.14458
-==**CODE:**==https://github.com/THU-MIG/yolov10
+```
+```components
+componentId: 45530701-2f15-4757-8945-269ae1718946
 
-
->[!info] RT-DETR
->**==RT-DETR：==** https://zhao-yian.github.io/RTDETR/
-**==PAPER==**: [DETRs Beat YOLOs on Real-time Object Detection (thecvf.com)](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_DETRs_Beat_YOLOs_on_Real-time_Object_Detection_CVPR_2024_paper.pdf)
->**==CODE==**: [GitHub - lyuwenyu/RT-DETR: [CVPR 2024] Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection. 🔥 🔥 🔥](https://github.com/lyuwenyu/RT-DETR)
-
-
->[!info] YOLO-WORLD
->**==PAPER:==**  https://arxiv.org/pdf/2401.17270
->**==CODE:==** https://github.com/AILab-CVC/YOLO-World
-
-
->[!info] OPENMMALB
->**==INDEX==**: [OpenMMLab](https://openmmlab.com/)
-
-
-> [!info] autolabimg
-> **==SITE:==** https://github.com/CVHub520/X-AnyLabeling
-
+```
